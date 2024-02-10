@@ -34,7 +34,9 @@ For each font, the goal is to to demonstrate the various styles that you intend 
 Make sure to display each of the sections in the proper font, size, and style.
 
 5. In addition to the list of possible fonts, your style guide should include a section for specific text styles for page elements. For example, you could set main heading (<h1>) guidelines about text size, fonts, font styles, font weight, and more.
+   
 Include at least 3 element styles, and ideally as many as you’d like to use in future sites.
+
 For each page element, include:
 * A page element name (for example, “Subheading”).
 * All style rules (for example, font-weight: 700).
